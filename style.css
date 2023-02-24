@@ -1534,3 +1534,16 @@ form textarea {
     font-size: 15rem;
   }
 }
+
+
+@media (max-width: 300px) {
+  /* SCROLL  */ 
+  .arrow-wrap {
+    padding-bottom: 2em;
+    margin-top: 3em;
+  }
+
+  .bg-title {
+    font-size: 3rem;
+  }
+}
